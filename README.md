@@ -24,7 +24,3 @@ This ensures **trust, transparency, and authenticity** in candidate credentials.
 
 ---
 
-### 🔗 Certificate Verification API  
-
-```http
-GET /api/certificates/verify/:certificateId
