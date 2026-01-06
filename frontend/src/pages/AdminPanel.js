@@ -105,7 +105,7 @@ export default function AdminPanel() {
       .includes(search.toLowerCase())
   );
 
-  // ⭐ EXPORT TO EXCEL FUNCTION
+  // EXPORT TO EXCEL FUNCTION
   function exportToExcel() {
     if (filteredList.length === 0) {
       alert("No certificates to export!");
